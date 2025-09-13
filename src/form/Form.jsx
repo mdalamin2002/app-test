@@ -4,8 +4,10 @@ const Form = () => {
     return (
         <div>
             <form action="">
+                <h1>Form</h1>
                 <input type="text" />
                 <button>Submit</button>
+
             </form>
         </div>
     );
