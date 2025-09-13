@@ -4,7 +4,7 @@ const Form = () => {
     return (
         <div>
             <form action="">
-                <input type="text" />
+                <input type="email" />
                 <button>Submit</button>
             </form>
         </div>
