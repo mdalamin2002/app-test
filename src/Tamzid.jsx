@@ -7,6 +7,7 @@ const Tamzid = () => {
             <p>My name is Tamzid</p>
             <h1>Rahmatullah new</h1>
             <p>new</p>
+            <p>new</p>
         </div>
     );
 };
