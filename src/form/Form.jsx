@@ -6,6 +6,8 @@ const Form = () => {
             <form action="">
                 <input type="text" />
                 <button>Submit</button>
+                <button>Submit1</button>
+                <button>Submit2</button>
             </form>
         </div>
     );
